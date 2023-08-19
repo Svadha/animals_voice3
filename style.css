@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(black,white);
+    color: white;
+    font-family: 'Lumanosimo', cursive;
+    }
+
+#header_div{
+background-color: black;
+color: white;
+width:100%;
+padding:15px;
+}
+p{
+    font-size: 25px;
+}
+#btn{
+    background-color: grey;
+font-size: 20px;
+width:20%;
+margin-top:30px;
+}
+img{
+    width:200px;
+}
